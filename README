@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=615
+
+In this world of GUI screen design a character-based ruler may not seem altogether useful.  However, when you need to create or verify flat files with fixed-width columns it's certainly helpful.  Yes, yes.  The vim ruler at the bottom will tell you where the cursor is, but that's not always what you need to know.
